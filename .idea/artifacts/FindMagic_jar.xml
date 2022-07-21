@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FindMagic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FindMagic_jar</output-path>
+    <root id="archive" name="FindMagic.jar">
+      <element id="module-output" name="FindMagic" />
+      <element id="file-copy" path="$PROJECT_DIR$/Gift.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/Lose.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/Magic.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/Party.png" />
+    </root>
+  </artifact>
+</component>
